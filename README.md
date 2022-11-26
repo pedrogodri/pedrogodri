@@ -1,4 +1,4 @@
-<p align="center"><strong>Olá me chamo Pedro Henrique Godri👋, tenho 16 anos, atualmente no 2º do ensino médio com técnico integrado em informática</strong></p>
+<p align="center"><strong>Olá me chamo Pedro Henrique Godri👋, tenho 16 anos, atualmente no 2º do ensino médio com técnico integrado em informática e sou aluno do +Devs2Blu - C#</strong></p>
 
 <p align="center">
   <a href="https://www.instagram.com/pedro_godri/"><img alt="GitHub Status de Desenvolvimento" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the             badge&logo=instagram&logoColor=white"></a>
