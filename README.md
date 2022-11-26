@@ -1,12 +1,9 @@
 <p align="center"><strong>Olá me chamo Pedro Henrique Godri👋, tenho 16 anos, atualmente no 2º do ensino médio com técnico integrado em informática</strong></p>
 
 <p align="center">
-  <a href="https://github.com/pedrogodri"><img alt="GitHub Licença" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/pedro_godri/"><img alt="GitHub Status de Desenvolvimento" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the             badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-godri/"><img alt="GitHub Data Entrega" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-               badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-<hr>
 
 <h1>🚀 Skills</h1>
 
@@ -23,8 +20,6 @@
   <img alt="Tecnologia MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<hr>
-
 <h1>👩‍💻 IDE's</h1>
 
 <p>
@@ -34,3 +29,8 @@
   <img alt="IDE Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img alt="IDE VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
+
+<h1>📈 Status</h1>
+
+![pedrogodri GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
