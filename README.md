@@ -31,6 +31,9 @@
 </p>
 
 <h1>📈 Status</h1>
-
-![pedrogodri GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=tokyonight">
+</p>
+<p align="center">
+  <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</p>
