@@ -35,5 +35,5 @@
   <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=tokyonight">
 </p>
 <p align="center">
-  <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodria&layout=compact">
+  <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact">
 </p>
