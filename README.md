@@ -2,11 +2,6 @@
 
 <p align="center"><strong>Me chamo Pedro Henrique Godri👋, tenho 16 anos, atualmente no 2º do ensino médio com técnico integrado em informática e sou aluno do +Devs2Blu - C#</strong></p>
 
-<p align="center">
-  <a href="https://www.instagram.com/pedro_godri/"><img alt="GitHub Status de Desenvolvimento" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the             badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-godri/"><img alt="GitHub Data Entrega" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-               badge&logo=linkedin&logoColor=white"></a>
-</p>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="programar.gif">
@@ -32,19 +27,10 @@
     </a>
 </div>
 
-<h1>👩‍💻 IDE's</h1>
+<br>
 
-<p>
-  <img alt="IDE Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img alt="IDE Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img alt="IDE Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-  <img alt="IDE Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img alt="IDE VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</p>
-
-<h1>📈 Status</h1>
 <div>
-  <img height="180em" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=transparent">
-  <img align="right" height="180em" alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=7&theme=transparent"/>
+  <h1>📈 Status</h1>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=16&theme=transparent"/>
 </div>
-
