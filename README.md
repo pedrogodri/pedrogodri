@@ -1,24 +1,39 @@
-<p align="center"><strong>Olá me chamo Pedro Henrique Godri👋, tenho 16 anos, atualmente no 2º do ensino médio com técnico integrado em informática e sou aluno do +Devs2Blu - C#</strong></p>
+## Fala Devs
+
+<p align="center"><strong>Me chamo Pedro Henrique Godri👋, tenho 16 anos, atualmente no 2º do ensino médio com técnico integrado em informática e sou aluno do +Devs2Blu - C#</strong></p>
 
 <p align="center">
   <a href="https://www.instagram.com/pedro_godri/"><img alt="GitHub Status de Desenvolvimento" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the             badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-godri/"><img alt="GitHub Data Entrega" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-               badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h1>🚀 Skills</h1>
-
-<p>
-  <img alt="Tecnologia C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img alt="Tecnologia .NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img alt="Tecnologia Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Tecnologia HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="Tecnologia CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Tecnologia JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Tecnologia C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="Tecnologia Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Tecnologia Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Tecnologia MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Minhas Tecnologias 🚀</h1>
+    <img align="center" height="30" width="40"alt="csharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" height="30" width="40" alt=".net-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" height="30" width="40" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
 
 <h1>👩‍💻 IDE's</h1>
 
@@ -31,9 +46,8 @@
 </p>
 
 <h1>📈 Status</h1>
-<p align="center">
-  <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=tokyonight">
-</p>
-<p align="center">
-  <img alt="Linguagens Mais Usadas" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div>
+  <img height="180em" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=transparent">
+  <img align="right" height="180em" alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+
