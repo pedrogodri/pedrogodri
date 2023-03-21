@@ -1,6 +1,6 @@
 ## Fala Devs
 
-<p align="center"><strong>Me chamo Pedro Henrique Godri👋, tenho 17 anos, atualmente no 3º do ensino médio com técnico integrado em informática e sou aluno do +Devs2Blu - C#</strong></p>
+<p align="center"><strong>Me chamo Pedro Henrique Godri👋, tenho 17 anos, atualmente no 3º do ensino médio com técnico integrado em informática e sou aluno formado da segunda edição do +Devs2Blu - C#</strong></p>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
