@@ -33,5 +33,7 @@
 <div>
   <h1>📈 Status</h1>
   <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=transparent"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=16&theme=transparent"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=16&theme=transparent&hide=css,html,scss,c,cmake,c%2B%2B,swift,kotlin,objective-c"/>
+
+
 </div>
