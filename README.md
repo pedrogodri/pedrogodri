@@ -1,6 +1,6 @@
 ## Fala Devs
 
-<p align="center"><strong>Me chamo Pedro Henrique Godri👋, tenho 18 anos, atualmente no 3º do ensino médio com técnico integrado em informática e sou aluno formado da segunda edição do +Devs2Blu - C#</strong></p>
+<p align="center"><strong>Me chamo Pedro Henrique Godri👋, tenho 18 anos, cursando segundo semestre de bacharel em ciências da computação na FURB, formado no técnico integrado a informática pelo IFSC e pela da segunda edição do +Devs2Blu - C#, atualmente trabalho como desenvolvedor Júnior Fullstack com diversas tecnologias como PHP, TypeScript, React</strong></p>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
